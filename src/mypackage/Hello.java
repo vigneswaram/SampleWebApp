@@ -31,8 +31,8 @@ public class Hello extends HttpServlet {
 		pw.println("<html> "+ "<head>" +"<title>Sample 'Hello, World' " +
 				"Application</title> </head>"+
 				"<body bgcolor=white> <table border='0'> <tr> <td>" +
-"<img src='images/tomcat.gif'> </td> <td> <h1>Sample Application Servlet Page</h1> " +
-"</td> </tr></table> <p>This is the output of a Servlet that is part of the Hello, World application.</p> </body></html>" );
+"<img src='images/tomcat.gif'> </td> <td> <h1>My Apllication Page</h1> " +
+"</td> </tr></table> <p>Hey...! This is the ouput of my application execution...!</p> </body></html>" );
 
 		pw.println("Hello!!!");
 	}
