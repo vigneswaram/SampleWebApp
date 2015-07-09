@@ -32,7 +32,7 @@ public class Hello extends HttpServlet {
 				"Application</title> </head>"+
 				"<body bgcolor=white> <table border='0'> <tr> <td>" +
 "<img src='images/tomcat.gif'> </td> <td> <h1>My Apllication Page</h1> " +
-"</td> </tr></table> <p>Hey...! This is the ouput of my application execution...!</p> </body></html>" );
+"</td> </tr></table> <p>Hey...! This is the ouput of my application execution......!</p> </body></html>" );
 
 		pw.println("Hello!!!");
 	}
